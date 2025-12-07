@@ -2,7 +2,7 @@
 
 This repository contains all artwork developed or designed by OSSAfrica open source contributors. It serves as a central hub for logos, banners, icons, illustrations, and other creative assets used across OSSAfrica projects and community initiatives.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 artwork/
@@ -16,7 +16,7 @@ artwork/
 └── brand-assets/      # Brand guidelines and color palettes
 ```
 
-## 🎨 What's Included
+## What's Included
 
 - **Logos**: Official OSSAfrica logos in various formats (SVG, PNG, EPS)
 - **Banners**: Web banners, event banners, and header images
@@ -27,7 +27,7 @@ artwork/
 - **Swag**: T-shirt designs, sticker designs, and other merchandise
 - **Brand Assets**: Color schemes, typography guidelines, and brand standards
 
-## 🚀 Using the Artwork
+## Using the Artwork
 
 All artwork in this repository is available under the [Apache License 2.0](LICENSE). You are free to:
 
@@ -38,7 +38,7 @@ All artwork in this repository is available under the [Apache License 2.0](LICEN
 
 Please ensure proper attribution to OSSAfrica and follow any specific guidelines mentioned in the brand assets.
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from designers, artists, and creative contributors! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting your work.
 
@@ -49,7 +49,7 @@ We welcome contributions from designers, artists, and creative contributors! Ple
 3. Place your files in the appropriate category folder
 4. Submit a pull request with a clear description
 
-## 📋 File Formats
+## File Formats
 
 We prefer the following formats for different types of artwork:
 
@@ -57,22 +57,22 @@ We prefer the following formats for different types of artwork:
 - **Raster Images**: PNG (with transparency), JPG
 - **Source Files**: Include editable source files (PSD, Sketch, Figma links, etc.)
 
-## 📖 Brand Guidelines
+## Brand Guidelines
 
 For information about our brand identity, colors, typography, and usage guidelines, please refer to the `brand-assets/` directory.
 
-## 🌍 Community
+## Community
 
 OSSAfrica is dedicated to promoting and supporting open source software across Africa. Join our community:
 
-- Website: [ossafrica.org](https://ossafrica.org) (if applicable)
-- Twitter: [@OSSAfrica](https://twitter.com/OSSAfrica) (if applicable)
+- Website: [ossafrica.org](https://ossafrica.org) (Not live yet)
+- Twitter: [@OSSAfrica](https://twitter.com/ossafrica_org) (if applicable)
 - GitHub: [github.com/OSSAfrica](https://github.com/OSSAfrica)
 
-## 📄 License
+## License
 
 This repository is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Thank you to all the talented designers and contributors who have shared their work with the OSSAfrica community!
