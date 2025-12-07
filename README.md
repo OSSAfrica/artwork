@@ -66,7 +66,8 @@ For information about our brand identity, colors, typography, and usage guidelin
 OSSAfrica is dedicated to promoting and supporting open source software across Africa. Join our community:
 
 - Website: [ossafrica.org](https://ossafrica.org) (Not live yet)
-- Twitter: [@OSSAfrica](https://twitter.com/ossafrica_org) (if applicable)
+- Discord: [Open Source & Security Africa](https://discord.gg/xKaFkRGvxq)
+- Twitter: [@OSSAfrica](https://twitter.com/ossafrica_org)
 - GitHub: [github.com/OSSAfrica](https://github.com/OSSAfrica)
 
 ## License
