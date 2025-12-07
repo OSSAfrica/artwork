@@ -1,0 +1,57 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Images
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.svg text
+*.webp binary
+
+# Vector graphics
+*.ai binary
+*.eps binary
+*.pdf binary
+*.psd binary
+
+# Design files
+*.sketch binary
+*.fig binary
+*.xd binary
+*.indd binary
+
+# Fonts
+*.otf binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary
+*.rar binary
+*.7z binary
+
+# Video
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.webm binary
+
+# Documents
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.xls binary
+*.xlsx binary
+*.odt binary
+*.odp binary
+*.ods binary
+
+# Keynote
+*.key binary
