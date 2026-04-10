@@ -4,7 +4,7 @@ This repository contains all artwork developed or designed by OSSAfrica open sou
 
 ## Repository Structure
 
-```
+```text
 artwork/
 ├── logos/              # OSSAfrica logos in various formats
 ├── banners/            # Banner images for websites and events
@@ -20,7 +20,7 @@ artwork/
 
 - **Logos**: Official OSSAfrica logos in various formats (SVG, PNG, EPS)
 - **Banners**: Web banners, event banners, and header images
-- **Social Media**: Graphics optimized for Twitter, LinkedIn, Facebook, Instagram
+- **Social Media**: Graphics and templates for LinkedIn, Instagram, X, Mastodon, Bluesky, TikTok, and Substack
 - **Icons**: Icon sets for applications and websites
 - **Illustrations**: Custom illustrations for documentation and presentations
 - **Presentations**: Slide decks and presentation templates
@@ -67,7 +67,14 @@ OSSAfrica is dedicated to promoting and supporting open source software across A
 
 - Website: [ossafrica.org](https://ossafrica.org) (Not live yet)
 - Discord: [Open Source & Security Africa](https://discord.gg/xKaFkRGvxq)
-- Twitter: [@OSSAfrica](https://twitter.com/ossafrica_org)
+- LinkedIn: [OSSAfrica](https://www.linkedin.com/company/ossafrica)
+- Instagram: [@ossafrica](https://www.instagram.com/ossafrica)
+- X (Twitter): [@ossafrica_org](https://x.com/ossafrica_org)
+- Mastodon: [OSSAfrica](https://mastodon.social/)
+- Bluesky: [ossafrica.bsky.social](https://ossafrica.bsky.social)
+- TikTok: [@ossafrica](https://www.tiktok.com/@ossafrica)
+- Substack: [@ossafrica](https://substack.com/@ossafrica)
+- WhatsApp Channel: [OSSAfrica Channel](https://whatsapp.com/channel/0029VbCVG4U23n3omcL1U20u)
 - GitHub: [github.com/OSSAfrica](https://github.com/OSSAfrica)
 
 ## License
